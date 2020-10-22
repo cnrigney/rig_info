@@ -1,7 +1,5 @@
-
 body{ 
 background-color: #FEFEF2;
-
 }
 
  nav {
@@ -46,7 +44,7 @@ h3{
 			font-size:24x;
 }
 
-h4,h5{
+h4, h5{
 	font-family: 'Righteous', cursive;
 }
 
@@ -107,13 +105,15 @@ padding-bottom:40px;
 }
 
 
-@media only screen and (max-width : 600px;) {
+@media only screen and (max-width : 600px) {
 
 	.side-control {
 		border: 0;
 	}
 	
-
+	h1{
+		text-align:center;
+	}
 	
 	
 .p-left {
@@ -143,4 +143,3 @@ background:#7B68EE;
 		}
 		
 }
-
