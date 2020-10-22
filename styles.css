@@ -52,9 +52,11 @@ font-family: 'Righteous', cursive;
 
 .header-h1 {
 	color:lightsteelblue;
+	vertical-align:middle;
 }
 .header-h3 {
 	color:lightsteelblue;
+	vertical-align:middle;
 }
 
 p {
