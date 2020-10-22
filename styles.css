@@ -32,33 +32,33 @@ text-decoration: none;
 }
 
 h1 {
-	font-family: 'Righteous', cursive;
-	font-size:35px;
+font-family: 'Righteous', cursive;
+font-size:35px;
 }
 
 h2{
-	font-family: 'Righteous', cursive;
-		font-size:28px;
+font-family: 'Righteous', cursive;
+font-size:28px;
 }
 
 h3{
-	font-family: 'Righteous', cursive;
-			font-size:21x;
+font-family: 'Righteous', cursive;
+font-size:21x;
 }
 
-h4, h5{
-	font-family: 'Righteous', cursive;
+h4,h5{
+font-family: 'Righteous', cursive;
 }
 
 p {
-	font-size: 20px;
-	font-family: 'Source Sans Pro', sans-serif;
-	line-height: 1.5em;
+font-size: 20px;
+font-family: 'Source Sans Pro', sans-serif;
+line-height: 1.5em;
 }
 
 .index-img {
-    height: 350px;
-    background: url(./rig.jpg) no-repeat center;
+  height: 350px;
+  background: url(./rig.jpg) no-repeat center;
   } 
 
  .about-img {
