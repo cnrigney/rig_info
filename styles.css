@@ -115,7 +115,7 @@ padding-bottom:40px;
 	color:#7B68EE;
 }
 
-@media only screen and (max-width : 600px) {
+@media only screen and (max-width : 700px) {
 	
 	#banner {
 	display:none;
@@ -139,7 +139,7 @@ margin-bottom:10px;
 }
 	
 .index-img {
-width:95%;
+width:95%;margin-bottom:20px;
 border-radius:25px;
 margin-bottom:20px;
 }
