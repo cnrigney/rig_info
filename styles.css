@@ -50,6 +50,13 @@ h4,h5{
 font-family: 'Righteous', cursive;
 }
 
+.header-h1 {
+	color:lightsteelnlue;
+}
+.header-h3 {
+	color:lightsteelnlue;
+}
+
 p {
 font-size: 20px;
 font-family: 'Source Sans Pro', sans-serif;
