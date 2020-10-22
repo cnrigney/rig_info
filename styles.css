@@ -1,7 +1,7 @@
 
 body{ 
 background-color: #FEFEF2;
-line-height: 1.75em;
+line-height: 1.65em;
 }
 
  nav {
@@ -53,7 +53,7 @@ h4, h5{
 p {
 	font-size: 20px;
 	font-family: 'Source Sans Pro', sans-serif;
-	line-height: 1.75em;
+	line-height: 1.65em;
 }
 
 .index-img {
@@ -79,7 +79,7 @@ border-right:2px solid black;
 background:#7B68EE;
 color:white;
 font-family: 'Source Sans Pro', sans-serif;
-font-size:22px;
+font-size:20px;
 padding-left: 7px;
 padding-right: 3px;
 padding-bottom:10px;
