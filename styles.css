@@ -50,12 +50,6 @@ h4, h5{
 	font-family: 'Righteous', cursive;
 }
 
-
-
-
-
-
-
 p {
 	font-size: 20px;
 	font-family: 'Source Sans Pro', sans-serif;
@@ -82,7 +76,8 @@ border-right:2px solid black;
 }
 
 .p-left {
-background:lightsteelblue;
+background:#7B68EE;
+color:white;
 font-family: 'Source Sans Pro', sans-serif;
 font-size:22px;
 padding-left: 7px;
