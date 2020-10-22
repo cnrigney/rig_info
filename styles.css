@@ -115,7 +115,7 @@ padding-bottom:40px;
 	color:#7B68EE;
 }
 
-@media only screen and (max-width : 700px) {
+@media only screen and (max-width : 600px) {
 	
 	#banner {
 	display:none;
