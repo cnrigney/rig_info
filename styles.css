@@ -85,12 +85,12 @@ padding-right: 3px;
 padding-bottom:10px;
 padding-top:25px;
 }
-/*
+
 .p-left::first-letter {
 font-size:55px;
 font-family: 'Pacifico', cursive;
 font-style:italic;
-color:#7B68EE;
+color:silver;
 padding-bottom:40px;
 }
 
@@ -99,7 +99,7 @@ font-size:32px;
 font-style:italic;
 padding-bottom:40px;
 }
-*/
+
 .typewrite{
 	font-size:1em;
 	font-style:italic;
