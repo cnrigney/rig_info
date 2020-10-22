@@ -126,33 +126,33 @@ padding-bottom:40px;
 	}
 	
 	h1{
-		text-align:center;
+	text-align:center;
 	}
 	
 	
 .p-left {
 background:#7B68EE;
-	padding-left: 7px;
-		padding-right: 7px;
-		padding-top:20px;
-		border-radius:25px;
+padding-left: 7px;
+padding-right: 7px;
+padding-top:20px;
+border-radius:25px;
 }
 	
-	.index-img {
-		width:95%;
-		border:0;
-		margin-bottom:15px;
-		}
+.index-img {
+width:95%;
+border-radius:25px;
+margin-bottom:15px;
+}
 	
 	.about-img {
 		width:95%;
-		border:0;
+		border-radius:25px;
 		margin-bottom:15px;
 		}
 		
 	.blog-img {
 		width:95%;
-		border:0;
+		border-radius:25px;
 		margin-bottom:15px;
 		}
 		
