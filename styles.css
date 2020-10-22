@@ -67,9 +67,8 @@ padding-left: 7px;
 padding-right: 3px;
 padding-bottom:10px;
 padding-top:25px;
-
 }
-
+/*
 .p-left::first-letter {
 font-size:55px;
 font-family: 'Pacifico', cursive;
@@ -83,7 +82,7 @@ font-size:32px;
 font-style:italic;
 padding-bottom:40px;
 }
-  
+*/
 .typewrite{
 	font-size:1em;
 	font-style:italic;
