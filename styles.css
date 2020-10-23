@@ -116,9 +116,8 @@ padding-bottom:40px;
 }
 
 
-#hidden {
+.mobile-logo {
 display: none; /*hidden until @media activates*/
-width:85px;
 }
 
 
@@ -135,7 +134,7 @@ width:85px;
 	}
 */
 	
-	#hidden {
+	.mobile-logo {
 	display:inline-block;
 	}	
 	
