@@ -115,6 +115,13 @@ padding-bottom:40px;
 	color:#7B68EE;
 }
 
+
+#hidden {
+display: none; /*hidden until @media activates*/
+}
+
+
+
 @media only screen and (max-width : 600px) {
 	
 /*	
@@ -126,6 +133,10 @@ padding-bottom:40px;
    padding:0;
 	}
 */
+	
+	#hidden {
+	display:inline-block;
+	}	
 	
 #banner{
 display:none;
